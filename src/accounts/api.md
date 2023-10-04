@@ -4,7 +4,10 @@
 
 ## Overview
 
-Forge provides a comprehensive API that allows you to programmatically manage your Forge servers and sites. To learn more, please review the [Forge API documentation](https://forge.laravel.com/api-documentation).
+Forge provides a comprehensive API that allows you to programmatically manage your Forge servers and sites. To learn more, please review the [Forge API documentation](https://forge.laravel.com/api-documentation). 
+
+The [The official Laravel Forge PHP SDK](https://github.com/laravel/forge-sdk) provides an expressive interface for interacting with Forge's API and managing Laravel Forge servers.
+
 
 ## Create API Token
 
